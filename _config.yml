@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [your name]
-description: [turning data into sights]
+description: [Passionate Mobile Application Developer with hands-on experience in building modern, user-focused applications using Kotlin, React Native, and Expo. Skilled in Android development, API integration, localization systems, and creating scalable solutions that improve workflow efficiency. Experienced in developing projects including AI-powered note applications, weather apps, music platforms, and finance management systems. Strong problem-solving mindset with the ability to independently learn new technologies and quickly adapt to evolving development environments. Enthusiastic about creating impactful digital experiences and continuously expanding expertise in mobile and software development.]
